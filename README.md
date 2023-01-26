@@ -1,5 +1,7 @@
 # BooksAndWords
 
+Huom! Olen itse toteuttanut BookImplementation.java ja Word.java sisältämät toteutukset!!
+
 Sovelluksen toiminta:
 1. Lukee tekstitiedoston, joka sisältää suuren määrän tekstiä (Book-tiedosto).
 2. Lukee toisen pienemmän tekstitiedoston, joka sisältää sanoja jotka jätetään huomiotta (Ignore-tiedosto).
