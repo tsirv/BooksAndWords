@@ -28,4 +28,5 @@ Tämän projektin avulla opin paljon hyödyllisiä asioita. Opin soveltamaan tä
  selkeyttää koodia huomattavasti. Koska projektin aikana tuli paljon virheitä vastaan, opin hyödyntämään debuggausta 
  ja sen toimintaperiaatetta. 
 
+Tämän esimerkin tarkoituksena ei ole toimiva sovellus, vaan antaa esimerkki koodaustaitoihin liittyen.
 
