@@ -1,5 +1,3 @@
-package com.anttijuustila.tira;
-
 public class Word implements Comparable<Word> {
 
     private String word;
