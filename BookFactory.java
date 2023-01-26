@@ -1,4 +1,4 @@
-package com.anttijuustila.tira;
+
 
 /**
  * TODO: This class is used to create an instance of your implementation of the Book interface.
