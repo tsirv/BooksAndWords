@@ -10,7 +10,7 @@ sanat esiintyvät Book-tiedostossa.
 4. Tulostaa 100 eniten ilmaantunutta sanaa laskevassa järjestyksessä.
 
 Toteutusratkaisuista ja algoritmeistä:
-Tarkoituksena on tehdä valmiista algoritmista nopeammin suoriutuva. Olen itse kirjoittanut BookImplementation.java ja Word.java sisältämät toteutukset.
+Tarkoituksena on tehdä isosta tekstitiedostosta nopeasti suoriutuva algoritmi. Olen itse kirjoittanut BookImplementation.java ja Word.java sisältämät toteutukset.
 Muuten koodi on koulutehtävästä. 
 
 Tietorakenteeksi sanojen säilyttämiseen valitsin hash-taulukon. Toteutin Word-luokan, jossa 
