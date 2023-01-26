@@ -1,5 +1,3 @@
-package com.anttijuustila.tira;
-
 import java.lang.NullPointerException;
 import java.io.FileNotFoundException;
 import java.io.IOException;
