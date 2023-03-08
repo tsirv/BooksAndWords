@@ -1,6 +1,6 @@
 # BooksAndWords
 
-Huom! Olen itse toteuttanut BookImplementation.java ja Word.java sisältämät toteutukset!!
+BookImplementation.java ja Word.java sisältämät toteutukset itse toteutettu.
 
 Sovelluksen toiminta:
 1. Lukee tekstitiedoston, joka sisältää suuren määrän tekstiä (Book-tiedosto).
@@ -28,5 +28,5 @@ Tämän projektin avulla opin paljon hyödyllisiä asioita. Opin soveltamaan tä
  selkeyttää koodia huomattavasti. Koska projektin aikana tuli paljon virheitä vastaan, opin hyödyntämään debuggausta 
  ja sen toimintaperiaatetta. 
 
-Tämän esimerkin tarkoituksena ei ole toimiva sovellus, vaan antaa esimerkki koodaustaitoihin liittyen.
+
 
